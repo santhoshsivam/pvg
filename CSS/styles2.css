@@ -239,6 +239,7 @@ z-index: 1;
 }
 .bcg-in{
 	text-align: center;
+padding-top:20%;
 }
 
 .bcg h1{
@@ -316,7 +317,7 @@ display: inline-block;
 	position: absolute;
 	background-color: black;
 	color: white;
-	bottom: -10%;
+	bottom: -9%;
 	padding:60px 0 0 0 ;
 	font-size: 20px;
 	border:1px solid lightgrey;
