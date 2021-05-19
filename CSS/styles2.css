@@ -217,8 +217,10 @@ z-index: 1;
 .bcg-in{
 	text-align: center;
 	color: white;
-	padding-top: 70%;
+	padding-top: 100%;
 	z-index: 1;
+Position:absolute;
+top:25%;
 
 
 }
