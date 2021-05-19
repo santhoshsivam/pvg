@@ -267,7 +267,7 @@ z-index: 1;
 }
 .same-container{
 	text-align: center;
-	padding-left:5%;
+	padding-left:0%;
 
 }
 .table2 td{
@@ -316,7 +316,7 @@ display: inline-block;
 	position: absolute;
 	background-color: black;
 	color: white;
-	bottom: -7%;
+	bottom: -10%;
 	padding:60px 0 0 0 ;
 	font-size: 20px;
 	border:1px solid lightgrey;
