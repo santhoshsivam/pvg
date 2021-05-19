@@ -125,7 +125,7 @@ li a:hover{
 	top: 10%;
 }
 .same{
-	padding:0;
+	padding:3% 15% 10% 10%;
 }
 .same1{
 	padding:3% 15% 10% 15%;
@@ -258,7 +258,7 @@ z-index: 1;
  background-color: black;
 }
 .same{
-	padding:3% 15% 10% 10%;
+	padding:0;
 }
 .same1{
 	padding:0;
