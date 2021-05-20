@@ -217,7 +217,7 @@ z-index: 1;
 .bcg-in{
 	text-align: center;
 	color: white;
-	padding-top: 100%;
+	padding-top: 70%;
 	z-index: 1;
 
 
@@ -314,10 +314,9 @@ display: inline-block;
 	position: absolute;
 	background-color: black;
 	color: white;
-	bottom: -10%;
+	bottom: -5%;
 	padding:40px;
 	font-size: 20px;
-	border:1px solid lightgrey;
 }
 
 @keyframes example {
