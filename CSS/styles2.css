@@ -280,11 +280,11 @@ display:  none;
 	display: none;
 }
 .jump1 p{ 
-padding: 20px; }
+padding: 10px; }
 .jump1 hr{
 	border-bottom: none;
 	border-top:3px solid white;
-	padding: 20px;
+	padding: 10px;
 }
 .jump2-1
 {
@@ -552,7 +552,7 @@ display: inline-block;
 	position: absolute;
 	background-color: black;
 	color: white;
-	bottom:-10%;
+	bottom:0%;
 	padding:60px 0 0 0 ;
 	font-size: 20px;
 }
@@ -674,11 +674,11 @@ display:  none;
 	display: none;
 }
 .jump1 p{ 
-padding: 20px; }
+padding: 10px; }
 .jump1 hr{
 	border-bottom: none;
 	border-top:3px solid white;
-	padding: 20px;
+	padding: 10px;
 }
 .jump2-1
 {
